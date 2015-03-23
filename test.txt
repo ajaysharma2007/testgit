@@ -1,1 +1,1 @@
-This is a test for git commands.
+This will cause merge conflict. This is a test for git commands. Let's resolve merge confilct.
