@@ -1,1 +1,1 @@
-Now is the Time for confict. This is a test for git commands.
+Testing merge again. This is a test for git commands.
