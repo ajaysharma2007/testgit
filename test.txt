@@ -1,1 +1,1 @@
-Testing add command.Time for confict. This is a test for git commands.
+Time for confict. This is a test for git commands.
